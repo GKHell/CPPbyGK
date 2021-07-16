@@ -3,9 +3,8 @@
 #include<string.h>
 using namespace std;
 
-class Book{
-
-private:
+class Book
+{private:
 	string bookName;
 	double price;
 public:
@@ -23,6 +22,7 @@ public:
 		cout<<bookName<<"\t"<<" $ "<<price<<endl;
 	}
 };
+
 int main()
 {	
 	Book ketu,aum;
