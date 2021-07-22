@@ -1,6 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
-// minimum : 3 digits , 2 special , 4 alphabet >  means lengh = 9
+// minimum : 3 digits , 2 special , 4 alphabet >  means length = 9
 int main()
 {
 	char pass[100];
