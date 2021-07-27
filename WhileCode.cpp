@@ -13,6 +13,7 @@ int main()
 	{
 		reminder = num % 10;
 		reverse = reverse*10+reminder;
+		// sum+= reminder;
 		num = num/10;
 	}
 
