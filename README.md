@@ -1,2 +1,2 @@
 # CPPbyGK
-> progamming is just like illusion,once you focus it starts to confuse you.
+> progamming is just like illusion,once you got focus on it. It starts to confuse you.
