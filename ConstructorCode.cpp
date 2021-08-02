@@ -11,7 +11,7 @@ public:
 		Student()
 		{
 
-			cout<<"m0 : Constructor -0 , \t"<<endl;
+			cout<<"m0 : Constructor 0 , \t"<<endl;
 
 		}
 		Student(int id)//m1
