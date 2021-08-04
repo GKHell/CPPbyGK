@@ -1,6 +1,6 @@
 /**
  * 
- * compile time : diff prototype
+ * compile time : diff prototype, we can use it without a class
  * */
 #include<iostream>
 using namespace std;
