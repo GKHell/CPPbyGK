@@ -1,5 +1,10 @@
 
-
+/**
+ * returnValue functionName(args....)
+ * {
+ * 				code......
+ * }
+ * */
 #include<iostream>
 using namespace std;
 void say(string name)
