@@ -89,13 +89,13 @@ int main()
 	Scooter s;
 	Code me;
 
-	ptr = &s;
+	ptr = &s; // to access derived class [Scooter] , virtually
 		ptr->getData();
 		ptr->showData();
 
 	cout<<"\n----------------------------\n\n";
 
-	ptr = &me;
+	ptr = &me;  // to access derived class [Code] , virtually
 		ptr->getData();
 		ptr->showData();
 
